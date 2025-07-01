@@ -8,6 +8,6 @@ export default defineConfig({
     port: process.env.PORT || 4173,
     host: true,
     allowedHosts: ['zerodhclone-7.onrender.com']
-  }
+  
 }
 })
